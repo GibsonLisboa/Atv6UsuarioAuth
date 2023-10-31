@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 3\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 6\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 3\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 6\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\gibso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 3\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gibso\\AppData\\Roaming\\NuGet\\NuGet.Config",

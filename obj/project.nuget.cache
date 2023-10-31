@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "okwh6X2r30ZD7YO1drQaNeN4XQJTMQq7YU93SdPuMKSen5PQzhX8v7V/hFdmcIO9kPXfdodtSuJpZO3elPqkig==",
+  "dgSpecHash": "7rjB8Auf/jAMKD6si3U2oL4XzTcZusddI+CDmKx/Pj84rs0MBWlDbx6wgHD9jnaKagAMFF+5dNaNdkuyDEFgyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 3\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\gibso\\Documentos\\Curso BackEnd SENAI\\Módulo Desenvolvimento de API\\Atividade 6\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gibso\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\gibso\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
